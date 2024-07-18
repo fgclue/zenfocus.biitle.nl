@@ -69,3 +69,15 @@ button {
     text-decoration: underline;
     cursor: pointer;
 }
+
+a {
+    color: #0095ff;
+    text-decoration: none;
+    font-style: italic;
+    font-family: serif;
+}
+
+a:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
